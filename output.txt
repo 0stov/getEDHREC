@@ -1,0 +1,215 @@
+1x Mazzy, Truesword Paladin
+1x Strength of the Harvest
+1x Pearl-Ear, Imperial Advisor
+1x Sheltering Landscape
+1x Witch Enchanter
+1x Sram, Senior Edificer
+1x Ethereal Armor
+1x Setessan Champion
+1x Winds of Rath
+1x Kor Spiritdancer
+1x All That Glitters
+1x Sanctum Weaver
+1x Unbridled Growth
+1x Chishiro, the Shattered Blade
+1x Satyr Enchanter
+1x Wild Growth
+1x Ancestral Mask
+1x Shiny Impetus
+1x Mesa Enchantress
+1x Fertile Ground
+1x Jukai Naturalist
+1x Ellivere of the Wild Court
+1x Eidolon of Blossoms
+1x Danitha Capashen, Paragon
+1x Reyav, Master Smith
+1x Siona, Captain of the Pyleas
+1x Golden-Tail Trainer
+1x Tanglespan Lookout
+1x Three Dog, Galaxy News DJ
+1x Yenna, Redtooth Regent
+1x Starfield Mystic
+1x Umbra Mystic
+1x Kellan, the Fae-Blooded
+1x Destiny Spinner
+1x Herald of the Pantheon
+1x Kutzil, Malamet Exemplar
+1x Transcendent Envoy
+1x Verduran Enchantress
+1x Stangg, Echo Warrior
+1x Calix, Guided by Fate
+1x Gylwain, Casting Director
+1x Auratog
+1x Dogmeat, Ever Loyal
+1x Eidolon of Countless Battles
+1x Hero of Iroas
+1x Gatherer of Graces
+1x Koll, the Forgemaster
+1x Faith Healer
+1x Uril, the Miststalker
+1x Bothersome Quasit
+1x Timber Paladin
+1x Codsworth, Handy Helper
+1x Preston Garvey, Minuteman
+1x Kaima, the Fractured Calm
+1x Kodama of the West Tree
+1x Aura Gnarlid
+1x Ardenn, Intrepid Archaeologist
+1x Composer of Spring
+1x Archon of the Wild Rose
+1x Feather, Radiant Arbiter
+1x Kami of Transience
+1x Wyleth, Soul of Steel
+1x Champion of the Flame
+1x Argothian Enchantress
+1x Celestial Ancient
+1x Armory Paladin
+1x Swords to Plowshares
+1x Beast Within
+1x Inventory Management
+1x Boros Charm
+1x Generous Gift
+1x Heroic Intervention
+1x Path to Exile
+1x Chaos Warp
+1x Silkguard
+1x Stroke of Midnight
+1x Royal Treatment
+1x Enlightened Tutor
+1x Take the Bait
+1x Naya Charm
+1x Rite of Harmony
+1x Krosan Grip
+1x Open the Armory
+1x Cultivate
+1x Rampant Growth
+1x Farseek
+1x One Last Job
+1x Austere Command
+1x Bridgeworks Battle
+1x Blasphemous Act
+1x Idyllic Tutor
+1x Retether
+1x Three Visits
+1x Unfinished Business
+1x Bala Ged Recovery
+1x Disrupt Decorum
+1x Three Dreams
+1x Vandalblast
+1x Resurgent Belief
+1x Farewell
+1x Taunt from the Rampart
+1x Brilliant Restoration
+1x Swiftfoot Boots
+1x Holy Avenger
+1x Thran Power Suit
+1x Helm of the Gods
+1x Claws of Gix
+1x Bear Umbra
+1x Sticky Fingers
+1x Darksteel Mutation
+1x Redemption Arc
+1x Sigil of the Empty Throne
+1x Sterling Grove
+1x Hyena Umbra
+1x Snake Umbra
+1x Strong Back
+1x Lion Umbra
+1x Minimus Containment
+1x Spirit Mantle
+1x Ordeal of Nylea
+1x Utopia Sprawl
+1x Audacity
+1x Briar Shield
+1x Martial Impetus
+1x Shield of the Oversoul
+1x Trace of Abundance
+1x Demonic Ruckus
+1x Season of Growth
+1x Mantle of the Ancients
+1x Carapace
+1x Rancor
+1x Unquestioned Authority
+1x Armadillo Cloak
+1x Annie Joins Up
+1x The Sound of Drums
+1x Chains of Custody
+1x Vow of Lightning
+1x Vow of Wildness
+1x Alpha Authority
+1x Daybreak Coronet
+1x Predatory Impetus
+1x Vow of Duty
+1x Ossification
+1x Timely Ward
+1x Abundant Growth
+1x Shielded by Faith
+1x Lignify
+1x Crackling Club
+1x Spider Umbra
+1x Sphere of Safety
+1x Almost Perfect
+1x Reliquary Tower
+1x Axgard Armory
+1x Sunhome, Fortress of the Legion
+1x Yavimaya, Cradle of Growth
+1x Boseiju, Who Endures
+1x Kessig Wolf Run
+1x Scavenger Grounds
+1x Sol Ring
+1x Arcane Signet
+1x Decanter of Endless Water
+1x Thought Vessel
+1x Boros Signet
+1x Selesnya Signet
+1x Gruul Signet
+1x Fellwar Stone
+1x Command Tower
+1x Canopy Vista
+1x Exotic Orchard
+1x Jungle Shrine
+1x Cinder Glade
+1x Bountiful Promenade
+1x Temple Garden
+1x Stomping Ground
+1x Evolving Wilds
+1x Rockfall Vale
+1x Spire Garden
+1x Sunpetal Grove
+1x Sacred Foundry
+1x Spectator Seating
+1x Overgrown Farmland
+1x Cabaretti Courtyard
+1x Clifftop Retreat
+1x Rootbound Crag
+1x Sundown Pass
+1x Arid Mesa
+1x Terramorphic Expanse
+1x Battlefield Forge
+1x Fortified Village
+1x Windswept Heath
+1x Krosan Verge
+1x Wooded Foothills
+1x Sungrass Prairie
+1x Temple of Plenty
+1x Game Trail
+1x Temple of Triumph
+1x Selesnya Sanctuary
+1x Karplusan Forest
+1x Brushland
+1x Temple of Abandon
+1x Mossfire Valley
+1x Myriad Landscape
+1x Gruul Turf
+1x Naya Panorama
+1x Boros Garrison
+1x Sunscorched Divide
+1x Radiant Grove
+1x Branchloft Pathway
+1x Sacred Peaks
+1x Fabled Passage
+1x Wooded Ridgeline
+1x Path of Ancestry
+1x Needleverge Pathway
+1x Rugged Prairie
+1x Abraded Bluffs
